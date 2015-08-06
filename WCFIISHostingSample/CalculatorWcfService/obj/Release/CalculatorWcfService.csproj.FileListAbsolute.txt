@@ -1,0 +1,6 @@
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\bin\CalculatorWcfService.dll.config
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\bin\CalculatorWcfService.dll
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\bin\CalculatorWcfService.pdb
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\obj\Release\CalculatorWcfService.csprojResolveAssemblyReference.cache
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\obj\Release\CalculatorWcfService.dll
+C:\Others\Others\WCFSamples\WCFIISHostingSample\CalculatorWcfService\obj\Release\CalculatorWcfService.pdb

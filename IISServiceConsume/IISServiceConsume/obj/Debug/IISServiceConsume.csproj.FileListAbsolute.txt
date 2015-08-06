@@ -1,0 +1,6 @@
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\bin\Debug\IISServiceConsume.exe.config
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\bin\Debug\IISServiceConsume.exe
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\bin\Debug\IISServiceConsume.pdb
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\obj\Debug\IISServiceConsume.csprojResolveAssemblyReference.cache
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\obj\Debug\IISServiceConsume.exe
+C:\Others\Others\WCFSamples\IISServiceConsume\IISServiceConsume\obj\Debug\IISServiceConsume.pdb
